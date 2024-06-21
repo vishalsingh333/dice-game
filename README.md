@@ -36,7 +36,7 @@ This project is developed using Vite and React. Feel free to explore the code an
 
 1. Clone the repository to your local machine:
    
-   git clone https://github.com/your-username/dice-game.git
+   git clone https://github.com/vishalsingh333/dice-game.git
 
 2. Navigate to the project directory:
 
